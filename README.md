@@ -130,5 +130,4 @@ _________________________
 
 
 ### 6) Что-то другое, что вам кажется правильным включить?
-
-
+[https://github.com/Anastasialapina/tinkoff-system-analyst](https://github.com/Anastasialapina/tinkoff-system-analyst)
